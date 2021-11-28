@@ -12,17 +12,28 @@ iniqulis - unjust, unfavorable, hostile, unsuitable, unteachable
 incilis - echo above
 
 **innate fell sill list;**
+
 (**in**)nate (**fe**)ll (**sil**)l (**lis**)t;
+
 in-fe-sil~lis
+
 ______
 **innate nicked queue list;**
+
 (**in**)nate (**nic**)ked q(**ue**)ue (**lis**)t:
+
 in~nic-que-lis
+
 ____
 **innate sill trust;**
+
 (**in**)nate (**sil**)l tr(**us**)t:
+
 in-sil-us
+
 ___
 
 Q: is it useful?
+
 A: not really; I really dislike snobby people who think dialects make them superior. It's a really poor flavor of gene.
+
