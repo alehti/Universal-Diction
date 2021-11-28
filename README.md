@@ -5,11 +5,8 @@ System to interpret a vocabulary to any dialect without a proper form to pronoun
 2. encase the correct sylabbles
 3. write out only sylables (~ con~nects flow) 
 
-Here are candidates for three new words, all of which mean similar ideas:
-
+_______
 infecilis - unjust, unfavorable, hostile, unsuitable, unteachable, inferior
-iniqulis - unjust, unfavorable, hostile, unsuitable, unteachable
-incilis - echo above
 
 **innate fell sill list;**
 
@@ -18,6 +15,8 @@ incilis - echo above
 in-fe-sil~lis
 
 ______
+iniqulis - unjust, unfavorable, hostile, unsuitable, unteachable
+
 **innate nicked queue list;**
 
 (**in**)nate (**nic**)ked q(**ue**)ue (**lis**)t:
@@ -25,6 +24,8 @@ ______
 in~nic-que-lis
 
 ____
+incilis - echo above
+
 **innate sill trust;**
 
 (**in**)nate (**sil**)l tr(**us**)t:
